@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Welcome to my personal blog (:
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Here I will share my thoughts and insights on stuff I learn and experience as a team lead and Front end engineer.
